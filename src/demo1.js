@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { Data } from "./App";
-export default function demo1() {
+export default function Demo1() {
   const context = useContext(Data);
   return (
     <div>

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Demo1 from "./Demo1";
+import Demo1 from "./demo1";
 
 export default function Demo() {
   const [show, setshow] = useState(false);
